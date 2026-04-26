@@ -1,0 +1,43 @@
+# ----
+# Site
+
+title: MySQLCompare
+url: "https://www.mysqlcompare.app"
+
+# Values for the jekyll-seo-tag gem
+description: "MySQL schema comparison tool. Find every difference, generate deployment scripts, and track schema changes. Runs 100% locally."
+author:
+  name: MySQLCompare
+  email: neil@postgrescompare.com
+
+# -----
+# Build
+
+timezone: Etc/UTC
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "success.html"
+    values:
+      sitemap: false
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
