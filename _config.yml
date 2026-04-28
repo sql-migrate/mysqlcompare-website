@@ -8,7 +8,7 @@ url: "https://www.mysqlcompare.app"
 description: "MySQL schema comparison tool. Find every difference, generate deployment scripts, and track schema changes. Runs 100% locally."
 author:
   name: MySQLCompare
-  email: neil@postgrescompare.com
+  email: neil@mysqlcompare.app
 
 # -----
 # Build

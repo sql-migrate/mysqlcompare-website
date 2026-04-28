@@ -7,4 +7,4 @@ description: Get in touch with the MySQLCompare team.
 
 Have a question about MySQLCompare, or want to share feedback on what features matter most to you?
 
-Email us at [neil@postgrescompare.com](mailto:neil@postgrescompare.com) — we'd love to hear from you.
+Email us at [neil@mysqlcompare.app](mailto:neil@mysqlcompare.app) — we'd love to hear from you.
